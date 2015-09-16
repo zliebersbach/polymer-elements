@@ -1,0 +1,32 @@
+{
+  "name": "wincinderith-elements",
+  "version": "1.0.0",
+  "description": "All of my Polymer elements, including iron-image-info, paper-divider, etc.",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "wincinderith"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wincinderith/wincinderith-elements.git"
+  },
+  "dependencies": {
+    "iron-image-info": "wincinderith/iron-image-info#^1.0.0",
+    "paper-carousel": "wincinderith/paper-carousel#^1.0.0",
+    "paper-divider": "wincinderith/paper-divider#^1.0.0",
+    "paper-email": "wincinderith/paper-email#^1.0.0"
+  },
+  "homepage": "https://github.com/wincinderith/wincinderith-elements",
+  "authors": [
+    "Kevin Boxhoorn <kevin@sarox.com.au>"
+  ],
+  "license": "http://wincinderith.github.io/LICENSE",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
