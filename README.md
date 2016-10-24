@@ -1,11 +1,12 @@
-# wincinderith-elements
-A meta package for all of my Polymer elements.
+# polymer-elements
+A meta package for Polymer elements.
 
 ## Iron Elements
-* [`iron-image-info`](https://github.com/wincinderith/iron-image-info)
+* [`iron-cookie`](https://github.com/wincinderith/iron-cookie)
 
 ## Paper Elements
 * [`paper-carousel`](https://github.com/wincinderith/paper-carousel)
 * [`paper-divider`](https://github.com/wincinderith/paper-divider)
 * [`paper-email`](https://github.com/wincinderith/paper-email)
+* [`paper-image`](https://github.com/wincinderith/paper-image)
 * [`paper-phone`](https://github.com/wincinderith/paper-phone)

@@ -1,33 +1,30 @@
 {
-  "name": "wincinderith-elements",
-  "version": "1.0.0",
-  "description": "A meta package for all of my Polymer elements.",
+  "name": "polymer-elements",
+  "version": "1.0.1",
+  "description": "A meta package for Polymer elements.",
   "keywords": [
     "web-components",
-    "polymer",
-    "wincinderith"
+    "polymer"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/wincinderith/wincinderith-elements.git"
+    "url": "git://github.com/wincinderith/polymer-elements.git"
   },
   "dependencies": {
-    "iron-image-info": "wincinderith/iron-image-info#^1.0.0",
+    "iron-cookie": "wincinderith/iron-cookie#^1.0.0",
     "paper-carousel": "wincinderith/paper-carousel#^1.0.0",
     "paper-divider": "wincinderith/paper-divider#^1.0.0",
     "paper-email": "wincinderith/paper-email#^1.0.0",
+    "paper-image": "wincinderith/paper-image#^1.0.0",
     "paper-phone": "wincinderith/paper-phone#^1.0.0"
   },
-  "homepage": "https://github.com/wincinderith/wincinderith-elements",
+  "homepage": "https://github.com/wincinderith/polymer-elements",
   "authors": [
-    "Kevin Boxhoorn <kevin@sarox.com.au>"
+    "Kevin Boxhoorn <kevinboxhoorn@yahoo.com>"
   ],
   "license": "GPL-3.0",
   "ignore": [
     "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+    "bower_components"
   ]
 }
